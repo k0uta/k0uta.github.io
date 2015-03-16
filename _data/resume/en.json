@@ -1,0 +1,98 @@
+{
+    "basics": {
+        "name": "Murilo Fioravanti Costa",
+        "label": "Software Developer",
+        "picture": "http://i.imgur.com/ktyGi0S.jpg",
+        "email": "murilo.fioravanti.costa@gmail.com",
+        "phone": "+55 (11) 99596-8457",
+        "website": "",
+        "summary": "Brazilian software developer, currently finishing the Computer Science course on UFABC and working at Bull with Java and C++ development. Ease to both adapt and research new technologies.",
+        "location": {
+            "address": "Av. Dom Jaime de Barros Câmara, 795 ap.24D",
+            "postalCode": "09895-400",
+            "city": "São Bernardo do Campo",
+            "countryCode": "BR",
+            "region": "SP"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "company": "AccessPro Soluções Rápidas em Informática",
+            "position": "Software Developer",
+            "website": "",
+            "startDate": "2009-02-01",
+            "endDate": "2013-07-01",
+            "summary": "Software developing for micro and small business companies using Visual Basic for Applications and Microsoft Acess for frontend applications.",
+            "highlights": [
+                "Sucessfully implemented an application for quality management on Knorr-Bremse Brazil",
+                "Involved in the complete process of development of many applications "
+            ]
+        },
+        {
+            "company": "Bull",
+            "position": "Softwared Developer Intern",
+            "website": "",
+            "startDate": "2013-08-01",
+            "endDate": "2014-12-31",
+            "summary": "Java web interfaces creation for managing and retrieving data from financial imaging processing applcations, using RichFaces and Spring, also developing C++ modules and Oracle/Postgres scripts to integrate with the Java web application.",
+            "highlights": []
+        },
+        {
+            "company": "AtoS",
+            "position": "Softwared Developer",
+            "website": "",
+            "startDate": "2015-01-01",
+            "endDate": "2015-04-01",
+            "summary": "Java web interfaces creation for managing and retrieving data from financial imaging processing applcations, using RichFaces and Spring, also developing C++ modules and Oracle/Postgres scripts to integrate with the Java web application.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Universidade Federal do ABC",
+            "area": "Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2010-05-01",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "level": "",
+            "keywords": [
+                "C++",
+                "Java",
+                "Javascript",
+                "Visual Basic for Applications"
+            ]
+        },
+        {
+            "name": "Frameworks and Libraries",
+            "level": "",
+            "keywords": [
+                "Qt",
+                "OpenGL",
+                "jQuery",
+                "Code Igniter"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [],
+    "references": []
+}

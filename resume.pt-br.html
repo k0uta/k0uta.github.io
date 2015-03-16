@@ -1,0 +1,45 @@
+---
+layout: resume
+title: Desenvolvedor de Software
+permalink: /resume/br/
+redirect_from:
+  - /resume.pt-br.html
+  - /resume/pt-br/
+---
+
+{% assign resume = site.data.resume.pt-br %}
+{% assign locale = site.data.locales.pt-br %}
+
+{% include resume.html %}
+
+<script type="text/javascript">
+  // This is ugly
+  // I can't find a proper way to translate this on server side of GitHub pages
+  !function ($) {
+    $(function(){
+      var translations = [
+        {original: "January",   translated: "Janeiro"},
+        {original: "February",  translated: "Fevereiro"},
+        {original: "March",     translated: "Março"},
+        {original: "April",     translated: "Abril"},
+        {original: "May",       translated: "Maio"},
+        {original: "June",      translated: "Junho"},
+        {original: "July",      translated: "Julho"},
+        {original: "August",    translated: "Agosto"},
+        {original: "September", translated: "Setembro"},
+        {original: "October",   translated: "Outubro"},
+        {original: "November",  translated: "Novembro"},
+        {original: "December",  translated: "Dezembro"}
+      ];
+
+      $('.start-date,.end-date').each(function(){
+        var text = $(this).text();
+        for (var i = translations.length - 1; i >= 0; i--) {
+          var t = translations[i];
+          text = text.replace(t.original, t.translated);
+        };
+        $(this).text(text);
+      });
+    });
+  }(jQuery);
+</script>

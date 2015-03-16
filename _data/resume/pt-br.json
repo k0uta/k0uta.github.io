@@ -1,0 +1,93 @@
+{
+    "basics": {
+        "name": "Murilo Fioravanti Costa",
+        "label": "Desenvolvedor de Software",
+        "picture": "http://i.imgur.com/ktyGi0S.jpg",
+        "email": "murilo.fioravanti.costa@gmail.com",
+        "phone": "+55 (11) 99596-8457",
+        "website": "",
+        "summary": "Desenvolvedor de Software, concluíndo Bacharelado em Ciências da Computação na UFABC e trabalhando na empresa AtoS com desenvolvimento Java/C++. Facilidade em se adaptar e pesquisar novas tecnologias.",
+        "location": {
+            "address": "Av. Dom Jaime de Barros Câmara, 795 ap.24D",
+            "postalCode": "09895-400",
+            "city": "São Bernardo do Campo",
+            "countryCode": "BR",
+            "region": "SP"
+        },
+        "profiles": []
+    },
+    "work": [
+        {
+            "company": "AccessPro Soluções Rápidas em Informática",
+            "position": "Análise e Desenvolvimento de Software",
+            "website": "",
+            "startDate": "2009-02-01",
+            "endDate": "2013-07-01",
+            "summary": "Desenvolvimento rápido de software voltado para micro e pequenas empresas utilizando Visual Basic for Applications e Microsoft Access.",
+            "highlights": [
+                "Desenvolvimento de aplicações de controle de qualidade na Knorr-Bremse Brazil",
+                "Participação de todo ciclo de criação do projeto, desde arquitetura até a implementação e manutenção"
+            ]
+        },
+        {
+            "company": "Bull",
+            "position": "Estágio em Análise e Desenvolvimento de Software",
+            "website": "",
+            "startDate": "2013-08-01",
+            "endDate": "2014-12-31",
+            "summary": "Criação de módulos em Java web para criação e gerenciamento de dados de aplicações financeiras de tratamento de imagens. Uso de RichFaces e Spring, desenvolvendo também módulos em C++ e scripts para Oracle/Postgres integrados com a aplicação Java.",
+            "highlights": []
+        },
+        {
+            "company": "AtoS",
+            "position": "Análise e Desenvolvimento de Software",
+            "website": "",
+            "startDate": "2015-01-01",
+            "summary": "Criação de módulos em Java web para criação e gerenciamento de dados de aplicações financeiras de tratamento de imagens. Uso de RichFaces e Spring, desenvolvendo também módulos em C++ e scripts para Oracle/Postgres integrados com a aplicação Java.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Universidade Federal do ABC",
+            "area": "Bacharelado em Ciências da Computação",
+            "studyType": "Bachelor",
+            "startDate": "2010-05-01",
+            "gpa": "",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Linguagens de Programação",
+            "level": "",
+            "keywords": [
+                "C++",
+                "Java",
+                "Javascript",
+                "Visual Basic for Applications"
+            ]
+        },
+        {
+            "name": "Frameworks e Bibliotecas",
+            "level": "",
+            "keywords": [
+                "Qt",
+                "OpenGL",
+                "jQuery",
+                "Code Igniter"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Inglês",
+            "fluency": "Avançado"
+        }
+    ],
+    "interests": [],
+    "references": []
+}
