@@ -24,7 +24,7 @@ I'm not going to enter in so much detail about the tutorial so all I'm going to 
 
 * _Unity UI elements_: I did used some elements of the Unity UI in my university class but not with so much organization and simplicty as the instructors demonstrate, using it not only for showing basic information to the player but to show other screens like the classic game over screen.
 
-* _Raycast basic usage_: I don't know much about Raycasting and anything that looks like it's going to need some deep math with real lif physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial make me really confortable with using Unity.
+* _Raycast basic usage_: I really don't know much about Raycasting and anything that looks like it's going to need some deep math with real life physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial make me really confortable with using Unity.
 
 * _Scripting basic gunshot_: Yeah the funny guy in pajamas does have a violent past and sleeps with a gun, this is trobublesome (I guess?). But seriously, I could not imagine that firing bullets in unity could be so simple.
 
