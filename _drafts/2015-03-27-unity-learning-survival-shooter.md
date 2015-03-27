@@ -2,6 +2,10 @@
 published: false
 ---
 
+---
+layout: post
+---
+
 As I'm starting to walk the path of learnign and improving at gamedev there's no better starting place as Unity! The new version look promising, all the tools from the full version are free to everyone and everyone's using so there's no reason to why I shouldn't
 
 I did have some kind of contact with Unity before, but never tried to learn it properly. Now I have one introdutory class at my university, teaching basic stuff but nonetheless good to start using the engine, and I'm trying to learn using tutorials, mostly video tutorials.
