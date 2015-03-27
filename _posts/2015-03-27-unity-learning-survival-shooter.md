@@ -24,7 +24,7 @@ I'm not going to enter in so much detail about the tutorial so all I'm going to 
 
 * _Unity UI elements_: I did used some elements of the Unity UI in my university class but not with so much organization and simplicty as the instructors demonstrate, using it not only for showing basic information to the player but to show other screens like the classic game over screen.
 
-* _Raycast basic usage_: I really don't know much about Raycasting and anything that looks like it's going to need some deep math with real life physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial make me really confortable with using Unity.
+* _Raycast basic usage_: I really don't know much about Raycasting and anything that looks like it's going to need some deep math with real life physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial don't look so complicated and the way it's used in this tutorial turn the big bad physics monsters into a nice and cute puppy.
 
 * _Scripting basic gunshot_: Yeah the funny guy in pajamas does have a violent past and sleeps with a gun, this is trobublesome (I guess?). But seriously, I could not imagine that firing bullets in unity could be so simple.
 
@@ -32,7 +32,7 @@ I'm not going to enter in so much detail about the tutorial so all I'm going to 
 
 ## Impressions
 
-This tutorial got a excellent didatic and the 3 guys who're teaching it nail every aspect of the presentation and step-by-step analysis.
+This tutorial got a excellent didatic and the 3 guys who teach it nail every aspect of the presentation and step-by-step analysis.
 
 It's a good place to start after you are familiarized with the editor and it's basic usage so to newcomers I would recomend it after the [first tutorial](http://unity3d.com/learn/tutorials/projects/roll-a-ball) since it looks more simple and aimed at learning how to get around the editor.
 
