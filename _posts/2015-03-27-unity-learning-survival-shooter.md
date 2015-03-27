@@ -20,7 +20,7 @@ It's a basic game and all the assets (even most part of the scripts) are all rea
 I'm not going to enter in so much detail about the tutorial so all I'm going to do is highlight what I've learned with it and my impressions.
 
 ## What I've learned
-* _Unity animator_: Seriously I had not that the animator could be so useful, powerful and yet simple.
+* _Unity animator_: Seriously I had no idea that the animator could be so useful, powerful and yet simple.
 
 * _Unity UI elements_: I did used some elements of the Unity UI in my university class but not with so much organization and simplicty as the instructors demonstrate, using it not only for showing basic information to the player but to show other screens like the classic game over screen.
 
