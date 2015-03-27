@@ -7,9 +7,9 @@ As I'm starting to walk the path of learnign and improving at gamedev there's no
 
 I did have some kind of contact with Unity before, but never tried to learn it properly. Now I have one introdutory class at my university, teaching basic stuff but nonetheless good to start using the engine, and I'm trying to learn using tutorials, mostly video tutorials.
 
-The [Projects] (http://unity3d.com/learn/tutorials/modules) in the learn section of the official site are very good to get the grip of the engine and discover it's most useful features.
+The [Projects](http://unity3d.com/learn/tutorials/modules) in the learn section of the official site are very good to get the grip of the engine and discover it's most useful features.
 
-I started with the [Survival Shooter] (http://unity3d.com/learn/tutorials/projects/survival-shooter) and could not be more happy with my decision.
+I started with the [Survival Shooter](http://unity3d.com/learn/tutorials/projects/survival-shooter) and could not be more happy with my decision.
 
 ## About this Tutorial
 
@@ -34,7 +34,7 @@ I'm not going to enter in so much detail about the tutorial so all I'm going to 
 
 This tutorial got a excellent didatic and the 3 guys who're teaching it nail every aspect of the presentation and step-by-step analysis.
 
-It's a good place to start after you are familiarized with the editor and it's basic usage so to newcomers I would recomend it after the [first tutorial] (http://unity3d.com/learn/tutorials/projects/roll-a-ball) since it looks more simple and aimed at learning how to get around the editor.
+It's a good place to start after you are familiarized with the editor and it's basic usage so to newcomers I would recomend it after the [first tutorial](http://unity3d.com/learn/tutorials/projects/roll-a-ball) since it looks more simple and aimed at learning how to get around the editor.
 
 This project took my about 5 hours to complete and I liked the result, there's some kind of magic in "completing a game" even if it's just a tutorial and seeing it, playing it, god it's awesome.
 
