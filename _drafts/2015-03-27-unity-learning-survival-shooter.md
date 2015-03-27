@@ -20,10 +20,14 @@ I'm not going to enter in so much detail about the tutorial so all I'm going to 
 
 ## What I've learned
 * _Unity animator_: Seriously I had not that the animator could be so useful, powerful and yet simple.
+
 * _Unity UI elements_: I did used some elements of the Unity UI in my university class but not with so much organization and simplicty as the instructors demonstrate, using it not only for showing basic information to the player but to show other screens like the classic game over screen.
-*_Raycast basic usage_: I don't know much about Raycasting and anything that looks like it's going to need some deep math with real lif physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial make me really confortable with using Unity.
-*_Scripting basic gunshot_: Yeah the funny guy in pajamas does have a violent past and sleeps with a gun, this is trobublesome (I guess?). But seriously, I could not imagine that firing bullets in unity could be so simple.
-*_Some general patterns_: It's great to watch how the ~Pros~ do because they do it in some patterns that at first can look silly but actually provide a lot to many projects
+
+* _Raycast basic usage_: I don't know much about Raycasting and anything that looks like it's going to need some deep math with real lif physics makes me want to die (ok thats a little exageration). Somehow the Raycast functions explained in the tutorial make me really confortable with using Unity.
+
+* _Scripting basic gunshot_: Yeah the funny guy in pajamas does have a violent past and sleeps with a gun, this is trobublesome (I guess?). But seriously, I could not imagine that firing bullets in unity could be so simple.
+
+* _Some general design choices_: It's nice to see how someone who already uses Unity makes use of it's empty objects to organize things or how they create a HUD because it gives you a feeling of how to do it "right". I'm not saying that you should follow their patterns and design choices blindly, but it's a great way to get the concept and evolve from it.
 
 ## Impressions
 
