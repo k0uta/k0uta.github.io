@@ -33,5 +33,24 @@ Basically another project with most part of the assets ready for use and most pa
  
  #### [Part 04 - Writing the board manager](http://unity3d.com/learn/tutorials/projects/2d-roguelike/boardmanager)
  
- This is one of the most important and useful parts of the tutorial. It goes through the whole creation of the board, creating a class inside the board manager class and turning it serializable for showing it on the inspector (really useful). The whole generation of the board is pretty interesting because its made in a way that have bits of randomness and at the same time so much consistency.
-
+ This is one of the most important and useful parts of the tutorial. It goes through the whole creation of the board, creating a class inside the board manager class and turning it serializable for showing it on the inspector (really useful). The whole generation of the board is pretty interesting because it's made in a way that have bits of randomness and at the same time so much consistency.
+ 
+ #### [Part 05 - Writing the game manager](http://unity3d.com/learn/tutorials/projects/2d-roguelike/gamemanager)
+ 
+ Like the board manager, the game manager represents a valuable part of the game itself, since it's the good guy game manager who's gonna boss around the board manager and the sound manager. Despise it being so necessary for the game, the chunk of code for the game manager is pretty simple, being in the end just a singleton with one or two special functions.
+ 
+ #### [Part 06 - Moving object script](http://unity3d.com/learn/tutorials/projects/2d-roguelike/movingobject)
+ 
+ The moving object script is the base for the player and the enemy. The code for this part is more advanced, making use of abstract classes and generic type functions. I could say that this is one of the most important parts of the game, since you have to use this script for managing enemy and player behaviour.
+ 
+ #### [Part 07 - Creating destructible walls](http://unity3d.com/learn/tutorials/projects/2d-roguelike/wall-script)
+ 
+ Since the walls are going to represent an obstacle in the player game they must present a way to the player overcome such them, so why not make the walls breakable? This part involves pretty much just a wall script and the chunks of code are pretty simple, where we create ways for the wall to be breaked.
+ 
+ #### [Part 08 - Player animator controller](http://unity3d.com/learn/tutorials/projects/2d-roguelike/player-animator)
+ 
+ Using the animator in Unity it's really easy if you don't have many states for your sprite so likewise this video covers some pretty basic stuff for setting up the player animations. It's good to see that we must adjust some settings when we're dealing with 2D sprites like removing the transition.
+ 
+ #### [Part 09 - Writing the player script](http://unity3d.com/learn/tutorials/projects/2d-roguelike/player-script)
+ 
+ The player script makes use of the moving object class so many parts are way more simple thanks to that. It's nice to note that the major functions in this script are the OnCantMove, that deals with the player obstacles, and the OnTriggerEnter2D, that deals with the player interaction with other game objects like soda and the exit.
